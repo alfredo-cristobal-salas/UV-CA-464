@@ -1,0 +1,99 @@
+<Pesos>
+  <Layer index="1">
+    <Matrix name="List1">
+      <Row index="1">
+        <Cell index="1">-0.814533465299317</Cell>
+        <Cell index="2">1.34103810725708</Cell>
+        <Cell index="3">1.37414120560633</Cell>
+        <Cell index="4">-1.52972795528112</Cell>
+        <Cell index="5">0.855790696545311</Cell>
+        <Cell index="6">0.242444475510677</Cell>
+      </Row>
+      <Row index="2">
+        <Cell index="1">-1.1375653106442</Cell>
+        <Cell index="2">7.76307232800788</Cell>
+        <Cell index="3">-22.1980144571112</Cell>
+        <Cell index="4">-6.66358298277285</Cell>
+        <Cell index="5">1.40022809444259</Cell>
+        <Cell index="6">2.47258018141288</Cell>
+      </Row>
+      <Row index="3">
+        <Cell index="1">-39.6042832952463</Cell>
+        <Cell index="2">-0.743418225106762</Cell>
+        <Cell index="3">5.04644274792834</Cell>
+        <Cell index="4">0.545173866947667</Cell>
+        <Cell index="5">-4.75101421515728</Cell>
+        <Cell index="6">-1.37429822080184</Cell>
+      </Row>
+      <Row index="4">
+        <Cell index="1">0.35391075863547</Cell>
+        <Cell index="2">0.259673033327728</Cell>
+        <Cell index="3">-2.59050553942053</Cell>
+        <Cell index="4">1.91224736144745</Cell>
+        <Cell index="5">0.657088193130065</Cell>
+        <Cell index="6">-1.26721321575599</Cell>
+      </Row>
+    </Matrix>
+    <Matrix name="List2">
+      <Row index="1">
+        <Cell index="1">-1.37708058597301</Cell>
+        <Cell index="2">0.75049989249883</Cell>
+        <Cell index="3">1.2414842550958</Cell>
+        <Cell index="4">0.103300982796777</Cell>
+      </Row>
+      <Row index="2">
+        <Cell index="1">3.05091364818658</Cell>
+        <Cell index="2">-41.5117076649265</Cell>
+        <Cell index="3">-85.0180828035489</Cell>
+        <Cell index="4">4.21276988303148</Cell>
+      </Row>
+      <Row index="3">
+        <Cell index="1">0.33280428037465</Cell>
+        <Cell index="2">-7.45909273389858</Cell>
+        <Cell index="3">1.85909086680135</Cell>
+        <Cell index="4">-1.42842037776837</Cell>
+      </Row>
+      <Row index="4">
+        <Cell index="1">1.73426512144707</Cell>
+        <Cell index="2">24.8752049601355</Cell>
+        <Cell index="3">-21.9133032429237</Cell>
+        <Cell index="4">-0.528944753303142</Cell>
+      </Row>
+      <Row index="5">
+        <Cell index="1">-6.06852051442229</Cell>
+        <Cell index="2">107.993300205794</Cell>
+        <Cell index="3">-6.98443026393238</Cell>
+        <Cell index="4">-0.995620452368415</Cell>
+      </Row>
+      <Row index="6">
+        <Cell index="1">26.3898494735673</Cell>
+        <Cell index="2">-4.75233026998563</Cell>
+        <Cell index="3">46.7468623873552</Cell>
+        <Cell index="4">1.18609902387124</Cell>
+      </Row>
+      <Row index="7">
+        <Cell index="1">3.00559442583072</Cell>
+        <Cell index="2">7.62118779540406</Cell>
+        <Cell index="3">20.9020297649506</Cell>
+        <Cell index="4">1.26096659326596</Cell>
+      </Row>
+    </Matrix>
+    <Matrix name="List3">
+      <Row index="1">
+        <Cell index="1">1.1855256804618</Cell>
+      </Row>
+      <Row index="2">
+        <Cell index="1">-0.206282465802257</Cell>
+      </Row>
+      <Row index="3">
+        <Cell index="1">-0.0632852840718848</Cell>
+      </Row>
+      <Row index="4">
+        <Cell index="1">-0.140953936265309</Cell>
+      </Row>
+      <Row index="5">
+        <Cell index="1">-1.02333102411676</Cell>
+      </Row>
+    </Matrix>
+  </Layer>
+</Pesos>
